@@ -1,0 +1,18 @@
+{
+  "slug": "IMM1",
+  "entry": "app.py",
+  "title": "Texto a voz",
+  "category": "Audio",
+  "headline": "Palabras escritas.",
+  "accent": "Ideas que se escuchan.",
+  "description": "Transforma un texto en voz en español o inglés y descarga el audio.",
+  "input": "Texto escrito y selección de idioma.",
+  "output": "Audio reproducible y archivo MP3 descargable.",
+  "steps": "Escribe un texto, elige el idioma y pulsa Convertir a audio. Puedes reproducir o descargar el resultado.",
+  "technology": "gTTS · Síntesis de voz",
+  "limits": "Necesita conexión al servicio de síntesis. La selección de idioma cambia la pronunciación; no traduce el texto.",
+  "url": "https://cyep53ohwhhthv9sebnkrf.streamlit.app/",
+  "repo": "https://github.com/Jhuza/IMM1",
+  "image": "txt_to_audio2.png",
+  "kind": "document"
+}
