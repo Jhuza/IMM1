@@ -1,4 +1,2 @@
-streamlit
-gTTS==2.2.2
-googletrans==3.1.0a0
-elevenlabs
+streamlit==1.64.0
+gTTS==2.5.4
